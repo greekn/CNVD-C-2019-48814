@@ -7,3 +7,5 @@
 #usage： poc.py http://192.168.237.128:7001 tag123
 
 ![image](https://github.com/greekn/CNVD-C-2019-48814/blob/master/1.png)
+
+![image](https://github.com/greekn/CNVD-C-2019-48814/blob/master/2.png)
